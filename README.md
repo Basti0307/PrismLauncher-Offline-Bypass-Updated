@@ -8,6 +8,10 @@ If you have some accounts saved then executing this script will remove them! Don
 
 # How to use (the best option is to copy paste an already created file in this repo)
 - Install PrismLauncher ( ✨ or go portable ✨ ) or its derivative (for that you need to edit these scripts)
+  
+> [!IMPORTANT]
+> You have to use Prism launcher version 9.3 or below, else this won't work anymore. You can download it [here](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.3)
+
 - Execute the command for the appropriate bypass (see [below](#usage-for-installer))
 - ❤️‍🔥 Change "YOUR-NICKNAME" in the "accounts.json" to your desired nickname ❤️‍🔥
 - Enjoy!
